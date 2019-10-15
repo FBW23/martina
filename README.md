@@ -70,6 +70,10 @@ function fancyAlert(arg) {
   }
 }
 ```
+External links. 
+
 www.google.de
 
-<www.google.de>
+Internal links 
+
+[Julien](../julien)
