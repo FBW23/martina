@@ -100,4 +100,4 @@ www.google.de
 | Nick Name | al | Spongebob | johnson 
 | Phone Numbers | 12345 | 98765 | 000123 
 | Hometown | Argentina | Brazil | Canada 
-| Flags | :argentina: | :brazil: | :canada:
+| Flags | :argentina: Argentina | :brazil: | :canada:
