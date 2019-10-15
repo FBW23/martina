@@ -70,10 +70,15 @@ function fancyAlert(arg) {
   }
 }
 ```
-External links. 
+External links:
 
 www.google.de
 
-Internal links 
+Internal links:
 
 [Julien](../../../julien)
+
+Anchors: 
+
+[create an anchor](#anchors-in-markdown)
+
