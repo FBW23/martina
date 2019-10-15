@@ -95,6 +95,6 @@ www.google.de
 
 # Table 
 
-| Real Name | Alice | Bob | Carl |
 | - | - | - | - |
+| Real Name | Alice | Bob | Carl |
 | Nick Name | al | Spongebob | johnson |
