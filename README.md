@@ -65,11 +65,13 @@ function fancyAlert(arg) {
   }
 }
 ```
-External links:
+# External links:
 
 www.google.de
 
-Internal links:
+<http://google.com>
+
+# Internal links:
 
 [Julien](../../../julien)
 
@@ -77,7 +79,16 @@ Internal links:
 
 [link to an anchor](#anchors-in-markdown)
 
+# Images
 
 ![Image](images/hello-kitty.jpeg "hello kitty")
 
+# Emoticons
+
 :rainbow:
+
+# Checkboxes 
+
+- [x] buy groceries
+- [ ] cook the lasagne
+- [ ] eating
