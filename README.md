@@ -79,3 +79,5 @@ Internal links:
 
 
 ![Image](images/hello-kitty.jpeg "hello kitty")
+
+:rainbow:
