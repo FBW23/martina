@@ -96,6 +96,5 @@ www.google.de
 # Table 
 
 | Real Name | Alice | Bob | Carl |
-| - | - | - | - |
 | Nick Name | al | Spongebob | johnson |
 | Phone Numbers | 12345 | 98765 | 000123 |
