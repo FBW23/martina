@@ -30,11 +30,6 @@ An [example link](http://example.com).
 
 ![Image](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 "icon")
 
-
-
-
-![Image](hello-kitty.jpeg "icon")
-
 ```<html><head></head><body></body></html>```
 
 ```javascript
@@ -78,7 +73,9 @@ Internal links:
 
 [Julien](../../../julien)
 
-Anchors: 
+# Anchors in Markdown
 
-[create an anchor](#anchors-in-markdown)
+[link to an anchor](#anchors-in-markdown)
 
+
+![Image](hello-kitty.jpeg "hello kitty")
