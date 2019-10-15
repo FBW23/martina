@@ -78,4 +78,4 @@ Internal links:
 [link to an anchor](#anchors-in-markdown)
 
 
-![Image](hello-kitty.jpeg "hello kitty")
+![Image](images/hello-kitty.jpeg "hello kitty")
