@@ -5,7 +5,6 @@
 # nags
 # NICOLO
 # JULIA
-# nags
 # BIANCA
 # BENDIS
 # MARTINA 
