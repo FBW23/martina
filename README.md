@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-
 # nags
+# Julien
+# JAMIL
 # BALAZS 
 # constantin
 # martina
