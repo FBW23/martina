@@ -1,6 +1,5 @@
 # JULIA
 # BALAZS 
-# nagsgit 
 # nags
 # NICOLO
 # BIANCA
