@@ -1,13 +1,14 @@
-# nags
+
+# JAMIL
+# BALAZS 
+# constantin
 # Joao 
+# nags
 # MARTINA
-# BALAZS
-# BENDIS
-# nags
-# constantin
-# Joao 
-# constantin
+# NICOLO
+# BIANCA
 # Heading
+
 ## Sub-heading
 
 Paragraphs are separated
@@ -15,6 +16,7 @@ by a blank line.
 
 Two spaces at the end of a line  
 produces a line break.
+
 
 Text attributes _italic_, 
 **bold**.
