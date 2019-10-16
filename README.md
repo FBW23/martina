@@ -4,7 +4,6 @@
 # BIANCA
 # constantin
 # martina
-# MARTINA
 # BALAZS
 # nags 
 # Joao 
