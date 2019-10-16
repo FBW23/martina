@@ -1,32 +1,19 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Joao 
 # nags
-# BALAZS 
-# constantin
+## martina
 # martina
-# NICOLO
-# martina
-# Julien
-# JAMIL
-=======
 # JULIA
+# CONSTANTIN
+# JAMIL
 # BALAZS 
 # NICOLO
 # BENDIS
-# constantin
 # MARTINA 
 # Joao 
 # jones
-<<<<<<< HEAD
 # nags
 # BIANCA
 # Julien
 # Heading
-
 ## Sub-heading
 
 Paragraphs are separated
