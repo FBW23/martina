@@ -1,5 +1,5 @@
 # MARTINA
-
+# BALAZS
 # martina
 # Heading
 
@@ -92,8 +92,9 @@ www.google.de
 # Checkboxes 
 
 - [x] buy groceries
-- [ ] cook the lasagne
-- [ ] eating
+- [X] cook the lasagne
+- [X] eating
+- [X] poopingfsdfsdfsd
 
 # Table 
 
