@@ -9,7 +9,6 @@
 # BENDIS
 # MARTINA 
 # Joao 
-# jones
 # nags
 # BIANCA
 # Julien
