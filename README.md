@@ -1,11 +1,21 @@
-# NICOLO
-# nags
+<<<<<<< HEAD
+# JAMIL
 # BALAZS 
+<<<<<<< HEAD
 # constantin 
 # Joao  
 # BIANCA
 # martina
+=======
+# constantin
+# Joao 
+# nags
+# MARTINA
+# NICOLO
+# BIANCA
+>>>>>>> 954cc0b92e2ec366bbad0f52b310005a02430c98
 # Heading
+
 ## Sub-heading
 
 Paragraphs are separated
