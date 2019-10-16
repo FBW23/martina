@@ -2,25 +2,29 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Joao 
 # nags
 # BALAZS 
 # constantin
 # martina
-=======
-=======
 # NICOLO
 # martina
-# BALAZS
->>>>>>> 37b28402a8391aea7e513ffa60613ea04cc514a2
 # Julien
 # JAMIL
+=======
+# JULIA
+# BALAZS 
+# NICOLO
+# BENDIS
 # constantin
+# MARTINA 
 # Joao 
+# jones
+<<<<<<< HEAD
 # nags
-# MARTINA
 # BIANCA
->>>>>>> e5088bcdca6a0515e3f0bedc0614e63b3dd2bf21
+# Julien
 # Heading
 
 ## Sub-heading
