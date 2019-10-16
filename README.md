@@ -1,7 +1,6 @@
 # JULIA
 # BALAZS 
 # nagsgit 
-# constantin
 # Joao 
 # nags
 # constantin
