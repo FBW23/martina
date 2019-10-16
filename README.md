@@ -1,19 +1,13 @@
 # NICOLO
 # nags
-# BALAZS 
 # constantin
 # Joao 
-# BALAZS 
-# Joao 
-# nags
-# BALAZS 
 # BIANCA
 # constantin
 # martina
 # MARTINA
 # BALAZS
 # nags 
-# constantin
 # Joao 
 
 # Heading
