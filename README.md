@@ -1,10 +1,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Joao 
 # nags
 # BALAZS 
 # constantin
 # martina
+=======
+# Julien
+# JAMIL
+# BALAZS 
+# constantin
+# Joao 
+# nags
+# MARTINA
+# NICOLO
+# BIANCA
+>>>>>>> e5088bcdca6a0515e3f0bedc0614e63b3dd2bf21
 # Heading
 
 ## Sub-heading
@@ -14,6 +26,7 @@ by a blank line.
 
 Two spaces at the end of a line  
 produces a line break.
+
 
 Text attributes _italic_, 
 **bold**.
