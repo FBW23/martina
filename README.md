@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # Joao 
-=======
-# BALAZS 
-
-
->>>>>>> 4e2a976650f52c91d0dd77e72063c2b7ffa1a4b1
 # martina
 # Heading
 
