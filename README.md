@@ -1,6 +1,5 @@
 # NICOLO
 # nags
-# constantin
 # Joao 
 # BIANCA
 # constantin
