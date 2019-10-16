@@ -3,7 +3,6 @@
 # BALAZS 
 # constantin
 # Joao 
-# nags
 # BALAZS 
 # constantin
 # martina
