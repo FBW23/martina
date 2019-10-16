@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # BALAZS 
 xcxc xc
+=======
+# Joao 
+>>>>>>> e2c448e237f22aabd501f4f572cc8f8c70ee6cb6
 =======
 =======
 # nags
@@ -10,10 +14,13 @@ xcxc xc
 =======
 >>>>>>> ab4e5358fa7b5e9b605054dabf37080d38a8e168
 >>>>>>> 117ae8e40bd2e59d70d81a62d98ef822c6bbb3c9
+<<<<<<< HEAD
 =======
 # Joao 
 =======
 >>>>>>> f926bcbb455d7146e0b81949375b39eb121c59d6
+=======
+>>>>>>> e2c448e237f22aabd501f4f572cc8f8c70ee6cb6
 
 # constantin
 
